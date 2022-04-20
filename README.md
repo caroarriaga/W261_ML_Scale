@@ -9,6 +9,8 @@ Use parallelize computing to train multiple classification models on large datas
 Authors: Ruth Ashford, Spencer Song, Rajiv Verma, Lana Elauria, Carolina Arriaga
 
 ## Project Organization
+
+```
 ├── README.md          <- General information.
 │
 ├── Data Pipeline      <- Data used in the project: test and final.
@@ -20,3 +22,4 @@ Authors: Ruth Ashford, Spencer Song, Rajiv Verma, Lana Elauria, Carolina Arriaga
 ├── Not Used           <- Other depricated materials.
 │
 └── Final Report.ipynb <- Final report.
+```
